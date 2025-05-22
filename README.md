@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME</H3> Arshitha MS
 <H3>ENTER YOUR REGISTER NO.</H3> 212223240015
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3> 
+<H3>DATE:20-05-2025</H3> 
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
